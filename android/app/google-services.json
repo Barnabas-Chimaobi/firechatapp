@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523257984012",
+    "firebase_url": "https://newchat-145ca.firebaseio.com",
+    "project_id": "newchat-145ca",
+    "storage_bucket": "newchat-145ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523257984012:android:de6773c79a1bc607c5aa29",
+        "android_client_info": {
+          "package_name": "com.learfactor.sdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523257984012-7oehhmjhaqmcmkqcvkmb5eonicti37ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF31N-hy4umwuJUZwzDBuAdOEBSZG_EVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523257984012-7oehhmjhaqmcmkqcvkmb5eonicti37ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
